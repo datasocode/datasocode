@@ -5,7 +5,8 @@
 Hi 👋I'm Seungeun</h1>
 <h1 align="light">I'm a passionate data enthusiast.</h3>
 
-- 📫 How to reach me **seung.lee.pro@gmail.com**
+- 📫 How to reach me     <a href="mailto:seung.lee.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
