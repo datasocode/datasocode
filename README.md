@@ -1,9 +1,8 @@
 
 
 
-<h1 align="center">Hi 👋I'm Seungeun</h1>
-<h3 align="center">I'm a passionate data enthusiast. 
-<h3 align="center"> I love working with data to uncover insights and drive informed decisions.</h3>
+Hi 👋I'm Seungeun</h1>
+<h1 align="light">I'm a passionate data enthusiast and I love working with data to uncover insights and drive informed decisions.</h3>
 
 - 📫 How to reach me **seung.lee.pro@gmail.com**
 
