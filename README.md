@@ -1,8 +1,9 @@
 
 
+![header](https://capsule-render.vercel.app/api?color=gradient)
 
 Hi 👋I'm Seungeun</h1>
-<h1 align="light">I'm a passionate data enthusiast and I love working with data to uncover insights and drive informed decisions.</h3>
+<h1 align="light">I'm a passionate data enthusiast.</h3>
 
 - 📫 How to reach me **seung.lee.pro@gmail.com**
 
